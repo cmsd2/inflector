@@ -38,14 +38,4 @@ pub mod titlecase;
 /// Example string `table_cases`
 pub mod tablecase;
 
-/// Provides conversion to upper case strings.
-///
-/// Example string `UPPERCASE`
-pub mod uppercase;
-
-/// Provides conversion to lower case strings.
-///
-/// Example string `LOWERCASE`
-pub mod lowercase;
-
 mod case;
